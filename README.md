@@ -1,5 +1,5 @@
-JS-Crypto-Challenge door Julie Toussaint
-----------------------------------------
+JS-Crypto-Challenge - Julie Toussaint
+-------------------------------------
 
 
 This is a simple exercise in using cryptography with `libsodium.js`. It consists of 4 parts:
