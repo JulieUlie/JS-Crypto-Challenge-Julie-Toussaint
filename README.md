@@ -1,3 +1,6 @@
+Werkstuk Crypto Challenge - Julie Toussaint
+
+
 This is a simple exercise in using cryptography with `libsodium.js`. It consists of 4 parts:
 * decrypting a ciphertext
 * signing a message
