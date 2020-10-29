@@ -30,7 +30,6 @@ describe('Decryption', () => {
 
   describe('decrypt', () => {
 
-
     it('decrypts an encrypted message', () => {
       expect(decryptor.decrypt(ciphertext, nonce)).toEqual(msg)
     })
